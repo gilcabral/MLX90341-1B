@@ -23,6 +23,7 @@
 #include "Wire.h"
 
 #define MLX90614_I2CADDR 0x1B
+#define MLX90614_I2CADDR 0x5A
 
 // RAM
 #define MLX90614_RAWIR1 0x04
